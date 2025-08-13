@@ -1,4 +1,13 @@
 ## 📜 Hukuki ve Etik Notlar
+# robots.txt for 24/25 European Leagues Data Project
+# Bu dosya, arama motorlarının ve botların proje içeriğini tarama izinlerini belirler.
+
+User-agent: *
+Disallow: /notebooks/           # Notebook klasörünü taramasınlar
+Allow: /                        # Diğer her şeyi tarayabilirler
+
+Sitemap: https://github.com/Metehan10/24/25-European-Leagues-FBref-Transfermarkt-Data-Project/sitemap.xml
+
 - Bu projedeki scraping kodları yalnızca eğitim ve araştırma amaçlıdır.
 - FBref ve Transfermarkt, ilgili markaların tescilli isimleridir; veriler kamuya açık sayfalardan alınmıştır.
 - Veriler, sitelerin **robots.txt** dosyalarında belirtilen kurallara ve kullanım şartlarına uyularak toplanmıştır.
