@@ -50,7 +50,7 @@ Kapsam Dahilindeki Ligler:
 
 - Veri Toplama
 
-  📄 FbrefScraping.ipynb → FBref verilerinin çekilmesi
+  📄 notebooks/FbrefScraping.ipynb → FBref verilerinin çekilmesi
   
   📄 TransfermarktScraping.ipynb → Transfermarkt verilerinin çekilmesi
 
