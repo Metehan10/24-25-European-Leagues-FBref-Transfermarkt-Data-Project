@@ -64,4 +64,7 @@ Kapsam Dahilindeki Ligler:
   
     [📄 FbrefKolonİsimleriniUzatma.ipynb](notebooks/FbrefKolonİsimleriniUzatma.ipynb) → Pivot sonrası kolon adlarının tam forma çevrilmesi
 
-    [📄 TransfermarktDataCleaning.ipynb](notebooks/TransfermarktDataCleaning.ipynb) → Pivot sonrası kolon adlarının tam forma çevrilmesi
+    [📄 TransfermarktDataCleaning.ipynb](notebooks/TransfermarktDataCleaning.ipynb) → Veri temizleme adımları
+
+2.  Veri Görselleştirme
+     [📄 Football.pbix](Football.pbix) → İşlenen verilerin Power BI aracılığıyla görselleştirilmesi
