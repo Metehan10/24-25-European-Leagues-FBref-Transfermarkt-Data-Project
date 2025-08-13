@@ -52,16 +52,16 @@ Kapsam Dahilindeki Ligler:
 
   [📄 FbrefScraping.ipynb](FbrefScraping.ipynb) → FBref verilerinin çekilmesi
   
-  📄 TransfermarktScraping.ipynb → Transfermarkt verilerinin çekilmesi
+  [📄 TransfermarktScraping.ipynb](TransfermarktScraping.ipynb) → Transfermarkt verilerinin çekilmesi
 
 - Veri Manipülasyonu
     
-    📄 FbrefGruplama.ipynb → Gruplama işlemleri
-    
-    📄 FbrefConcat.ipynb → Lig verilerinin birleştirilmesi (concat)
-    
-    📄 FbrefDataFixing.ipynb → Veri düzeltme adımları
-    
-    📄 FbrefKolonİsimleriniUzatma.ipynb → Pivot sonrası kolon adlarının tam forma çevrilmesi
+    [📄 FbrefGruplama.ipynb](notebooks/FbrefGruplama.ipynb) → Gruplama işlemleri
+  
+    [📄 FbrefConcat.ipynb](notebooks/FbrefConcat.ipynb) → Lig verilerinin birleştirilmesi (concat)
+  
+    [📄 FbrefDataFixing.ipynb](notebooks/FbrefDataFixing.ipynb) → Veri düzeltme adımları
+  
+    [📄 FbrefKolonİsimleriniUzatma.ipynb](notebooks/FbrefKolonİsimleriniUzatma.ipynb) → Pivot sonrası kolon adlarının tam forma çevrilmesi
 
-    📄 TransfermarktDataCleaning.ipynb → Pivot sonrası kolon adlarının tam forma çevrilmesi
+    [📄 TransfermarktDataCleaning.ipynb](notebooks/TransfermarktDataCleaning.ipynb) → Pivot sonrası kolon adlarının tam forma çevrilmesi
