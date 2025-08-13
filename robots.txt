@@ -1,0 +1,6 @@
+## 📜 Hukuki ve Etik Notlar
+- Bu projedeki scraping kodları yalnızca eğitim ve araştırma amaçlıdır.
+- FBref ve Transfermarkt, ilgili markaların tescilli isimleridir; veriler kamuya açık sayfalardan alınmıştır.
+- Veriler, sitelerin **robots.txt** dosyalarında belirtilen kurallara ve kullanım şartlarına uyularak toplanmıştır.
+- Toplu veri paylaşımı yapılmamaktadır. Kullanıcıların veriyi kendilerinin çekmesi beklenmektedir.
+- Hedef sitelere aşırı yük bindirecek şekilde istek gönderilmemelidir (rate limiting uygulanmalıdır).
