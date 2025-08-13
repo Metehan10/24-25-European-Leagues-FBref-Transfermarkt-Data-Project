@@ -66,5 +66,6 @@ Kapsam Dahilindeki Ligler:
 
     [📄 TransfermarktDataCleaning.ipynb](notebooks/TransfermarktDataCleaning.ipynb) → Veri temizleme adımları
 
-2.  Veri Görselleştirme
+2.  Veri Görselleştirme İşlemi
+   
      [📄 Football.pbix](Football.pbix) → İşlenen verilerin Power BI aracılığıyla görselleştirilmesi
